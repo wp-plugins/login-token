@@ -5,6 +5,8 @@ Tags: login, token , login-token
 Requires at least: 2.0
 Tested up to: 3.4
 Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add a hidden filed values token in login form to avoid brute force attack
 
@@ -32,10 +34,4 @@ No Screenshots
 = Other Questions =
 
 [Leave your FAQ](http://leo108.com/pid-1751.asp)
-
-== Changelog == 
- 
-== Upgrade Notice == 
-  
-Nothing
 
