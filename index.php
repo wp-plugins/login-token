@@ -1,10 +1,6 @@
 <?php
-/**
- * @package login_token
- * @version 1.0
- */
 /*
-Plugin Name: login_token
+Plugin Name: Login Token
 Plugin URI: http://wordpress.org/extend/plugins/login-token/
 Description: add a hidden filed values token in login form to avoid brute force attack。在后台登录页面添加了一个隐藏的令牌，用来防止暴力破解。
 Author: leo108
